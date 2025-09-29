@@ -1,4 +1,4 @@
-# Meus Exercícios em PostgreSQL
+# Exercícios em PostgreSQL
 
 Aqui você encontrará uma coletânea de exercícios de SQL que tenho praticado na plataforma **BeeCrowd**. Para cada solução, adicionei um comentário no código indicando o nível de dificuldade do exercício, conforme especificado em cada exercício na plataforma.
 
