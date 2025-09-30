@@ -22,6 +22,3 @@ Aqui você encontrará uma coletânea de exercícios de SQL que tenho praticado 
     * **Descrição:** Seleciona o ID e o nome de produtos cujo preço é menor que 10 ou maior que 100.
     * **Conceito principal:** Combinação de múltiplas condições usando o operador `OR`.
 
-* **Cidades em Ordem Alfabética**
-    * **Descrição:** Ordena as cidades dos fornecedores em ordem alfabética.
-    * **Conceito principal:** Aplicação da cláusula `ORDER BY` para organizar o conjunto de resultados.
